@@ -1,9 +1,4 @@
 # dockerfile
-from tensorflow/tensorflow:2.0.0b1-gpu-py3-jupyter
-
-
-
-# dockerfile
 
 A dockerfile useful for machine learning. It is based on TensorFlow 2 - GPU and includes Keras, Torch, Python 3.6 and Jupyter 
 
